@@ -2,7 +2,7 @@
   {
     "name": "Theme1",
     "type": "theme",
-    "src": "src",
+    "src": "",
     "version": "1.0",
     "authors": [
       "Hammock"
@@ -11,7 +11,7 @@
   {
     "name": "Theme2",
     "type": "theme",
-    "src": "src",
+    "src": "",
     "version": "1.1",
     "authors": [
       "Hammock",
