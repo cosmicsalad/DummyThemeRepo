@@ -2,7 +2,7 @@
   {
     "name": "Dark Matter",
     "type": "theme",
-    "src": "DarkMatter",
+    "src": "src/DarkMatter",
     "version": "1.5.1",
     "description": "Theme description",
     "tags": [
@@ -12,7 +12,7 @@
       "Hammock"
     ],
     "preview": {
-      "thumbnail": "DarkMatter/thumb.png"
+      "thumbnail": "src/DarkMatter/thumb.png"
     }
   }
 ]
