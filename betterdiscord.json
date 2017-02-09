@@ -14,5 +14,69 @@
     "preview": {
       "thumbnail": "src/DarkMatter/thumb.png"
     }
+  },
+  {
+    "name": "Dark Matter",
+    "type": "theme",
+    "src": "src/DarkMatter",
+    "version": "1.5.1",
+    "description": "Theme description",
+    "tags": [
+      "dark"
+    ],
+    "authors": [
+      "Hammock"
+    ],
+    "preview": {
+      "thumbnail": "src/DarkMatter/thumb.png"
+    }
+  },
+  {
+    "name": "Dark Matter",
+    "type": "theme",
+    "src": "src/DarkMatter",
+    "version": "1.5.1",
+    "description": "Theme description",
+    "tags": [
+      "dark"
+    ],
+    "authors": [
+      "Hammock"
+    ],
+    "preview": {
+      "thumbnail": "src/DarkMatter/thumb.png"
+    }
+  },
+  {
+    "name": "Dark Matter",
+    "type": "theme",
+    "src": "src/DarkMatter",
+    "version": "1.5.1",
+    "description": "Theme description",
+    "tags": [
+      "dark"
+    ],
+    "authors": [
+      "Hammock"
+    ],
+    "preview": {
+      "thumbnail": "src/DarkMatter/thumb.png"
+    }
+  },
+  {
+    "name": "Dark Matter",
+    "type": "theme",
+    "src": "src/DarkMatter",
+    "version": "1.5.1",
+    "description": "Theme description",
+    "tags": [
+      "dark"
+    ],
+    "authors": [
+      "Hammock"
+    ],
+    "preview": {
+      "thumbnail": "src/DarkMatter/thumb.png"
+    }
   }
 ]
