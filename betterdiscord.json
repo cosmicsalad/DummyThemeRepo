@@ -16,6 +16,22 @@
     }
   },
   {
+    "name": "Transparent",
+    "type": "theme",
+    "src": "src/Transparent",
+    "version": "1.0",
+    "description": "Theme description",
+    "tags": [
+      "transparent"
+    ],
+    "authors": [
+      "Hammock"
+    ],
+    "preview": {
+      "thumbnail": "src/Transparent/thumb.png"
+    }
+  },
+  {
     "name": "DarkMatter",
     "type": "theme",
     "src": "src/DarkMatter",
